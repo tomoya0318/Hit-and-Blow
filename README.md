@@ -7,7 +7,7 @@
 
 ゲーム画面はこちらから見てください．
 
-[要編集 github pagesでurl作成し，そのurlをこの行に]()
+[ゲーム画面](https://tomoya0318.github.io/Hit-and-Blow/)
 
 ## 📃仕様書
 [ここ](https://www.figma.com/file/aedhG4wlTaOTKxccKI9a6S/SIseminar-2024-Hit%26Blow?type=design&node-id=0-1&mode=design&t=DCxI8fYMzDXvkzbX-0)からみてください
@@ -24,14 +24,7 @@
 わかならいことがあればなんでも聞いてください！！
 
 ## 💻実際に手元で動かしたい人向け
-1.下のコマンドで，任意のディレクトリにダウンロード
-
-```
-git clone url
-```
-2. クローンしてきたファイルのうち，htmlファイルをchromeのブラウザで表示する(ドラック＆ドロップでできます！)
-3. 手元で編集した後に，更新を行う
-4. 下のコマンドでサーバーを立ち上げる
+1. 下のコマンドでサーバーを立ち上げる
 ```
 python3 -m http.server                          
 ```
